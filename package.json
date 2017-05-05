@@ -1,10 +1,10 @@
 {
   "name": "telegram-bot-api",
   "description": "Node.js module for Telegram Bot API (https://core.telegram.org/bots/api)",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mast/telegram-bot-api.git"
+    "url": "https://github.com/Pabloader/telegram-bot-api.git"
   },
   "main": "./lib/telegram-bot.js",
   "keywords": [
@@ -28,6 +28,11 @@
     {
       "name": "Ali Mihandoost",
       "email": "i@ali.md"
+    }
+    },
+    {
+      "name": "Pavel Kharchenko",
+      "email": "pavel@pabloader.ru"
     }
   ],
   "license": "MIT",
